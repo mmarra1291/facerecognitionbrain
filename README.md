@@ -1,3 +1,3 @@
 # facerecognitionbrain
 
-#This is not my code, I am following along with a tutorial created by Andrei Neagoie
+#This is a project for a course I am taking created by Andrei Neagoie
